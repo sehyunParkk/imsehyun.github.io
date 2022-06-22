@@ -1,0 +1,13 @@
+::How to play::
+
+First, If you want to start this game, please press "Game Start" button.
+And then you can play this game.
+Under the canvas, there is yellow box and big jewel heart.
+You have to click same heart with big heart.
+If you click another heart, your score will be reduced.
+And If you click bomb, your score will be zero.
+So be careful to click!
+
+The game method is same on every stage.
+But the level of difficulty will increase with each stage.
+I hope you have a great time with my game!
